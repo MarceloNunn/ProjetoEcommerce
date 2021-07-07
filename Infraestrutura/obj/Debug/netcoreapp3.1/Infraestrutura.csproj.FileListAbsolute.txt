@@ -1,9 +1,11 @@
 C:\Users\04626035205\source\repos\EcommerceDDD\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.deps.json
+C:\Users\04626035205\source\repos\EcommerceDDD\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.runtimeconfig.json
+C:\Users\04626035205\source\repos\EcommerceDDD\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.runtimeconfig.dev.json
 C:\Users\04626035205\source\repos\EcommerceDDD\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.dll
 C:\Users\04626035205\source\repos\EcommerceDDD\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.pdb
-C:\Users\04626035205\source\repos\EcommerceDDD\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.csprojAssemblyReference.cache
 C:\Users\04626035205\source\repos\EcommerceDDD\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.AssemblyInfoInputs.cache
 C:\Users\04626035205\source\repos\EcommerceDDD\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.AssemblyInfo.cs
 C:\Users\04626035205\source\repos\EcommerceDDD\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.csproj.CoreCompileInputs.cache
 C:\Users\04626035205\source\repos\EcommerceDDD\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.dll
 C:\Users\04626035205\source\repos\EcommerceDDD\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.pdb
+C:\Users\04626035205\source\repos\EcommerceDDD\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.genruntimeconfig.cache

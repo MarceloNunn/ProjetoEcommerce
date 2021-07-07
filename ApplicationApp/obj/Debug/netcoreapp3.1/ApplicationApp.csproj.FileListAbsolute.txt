@@ -1,9 +1,0 @@
-C:\Users\04626035205\source\repos\EcommerceDDD\ApplicationApp\bin\Debug\netcoreapp3.1\ApplicationApp.deps.json
-C:\Users\04626035205\source\repos\EcommerceDDD\ApplicationApp\bin\Debug\netcoreapp3.1\ApplicationApp.dll
-C:\Users\04626035205\source\repos\EcommerceDDD\ApplicationApp\bin\Debug\netcoreapp3.1\ApplicationApp.pdb
-C:\Users\04626035205\source\repos\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.csprojAssemblyReference.cache
-C:\Users\04626035205\source\repos\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.AssemblyInfoInputs.cache
-C:\Users\04626035205\source\repos\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.AssemblyInfo.cs
-C:\Users\04626035205\source\repos\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.csproj.CoreCompileInputs.cache
-C:\Users\04626035205\source\repos\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.dll
-C:\Users\04626035205\source\repos\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.pdb
