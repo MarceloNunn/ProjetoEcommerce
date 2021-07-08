@@ -1281,20 +1281,6 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "ApplicationApp/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "Entities": "1.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.0"
-        },
-        "compile": {
-          "bin/placeholder/ApplicationApp.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ApplicationApp.dll": {}
-        }
-      },
       "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -5014,11 +5000,6 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "ApplicationApp/1.0.0": {
-      "type": "project",
-      "path": "../ApplicationApp/ApplicationApp.csproj",
-      "msbuildProject": "../ApplicationApp/ApplicationApp.csproj"
-    },
     "Entities/1.0.0": {
       "type": "project",
       "path": "../Entities/Entities.csproj",
@@ -5027,7 +5008,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "ApplicationApp >= 1.0.0",
       "Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.0",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.0"
@@ -5065,9 +5045,6 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\04626035205\\source\\repos\\EcommerceDDD\\ApplicationApp\\ApplicationApp.csproj": {
-              "projectPath": "C:\\Users\\04626035205\\source\\repos\\EcommerceDDD\\ApplicationApp\\ApplicationApp.csproj"
-            },
             "C:\\Users\\04626035205\\source\\repos\\EcommerceDDD\\Entities\\Entities.csproj": {
               "projectPath": "C:\\Users\\04626035205\\source\\repos\\EcommerceDDD\\Entities\\Entities.csproj"
             }

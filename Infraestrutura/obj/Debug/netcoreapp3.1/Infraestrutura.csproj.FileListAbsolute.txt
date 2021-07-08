@@ -9,3 +9,7 @@ C:\Users\04626035205\source\repos\EcommerceDDD\Infraestrutura\obj\Debug\netcorea
 C:\Users\04626035205\source\repos\EcommerceDDD\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.dll
 C:\Users\04626035205\source\repos\EcommerceDDD\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.pdb
 C:\Users\04626035205\source\repos\EcommerceDDD\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.genruntimeconfig.cache
+C:\Users\04626035205\source\repos\EcommerceDDD\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.csprojAssemblyReference.cache
+C:\Users\04626035205\source\repos\EcommerceDDD\Infraestrutura\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\04626035205\source\repos\EcommerceDDD\Infraestrutura\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\04626035205\source\repos\EcommerceDDD\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.csproj.CopyComplete

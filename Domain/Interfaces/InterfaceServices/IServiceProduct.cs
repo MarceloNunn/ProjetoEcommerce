@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Interfaces.InterfaceServices
 {
-    public interface IServiceProduct
+    public interface IServiceProduct 
     {
         Task AddProduct(Product product);
         Task UpdateProduct(Product product);

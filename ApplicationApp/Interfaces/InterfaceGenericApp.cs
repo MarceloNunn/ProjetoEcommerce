@@ -8,9 +8,9 @@ namespace ApplicationApp.Interfaces
     public interface InterfaceGenericApp<T> where T : class
     {
         Task Add(T Objeto);
-        Task UpdateProduct(T Objeto);
-        Task DeleteProduct(T Objeto);
-        Task GetByIdProduct(T Objeto);
+        Task Update(T Objeto);
+        Task Delete(T Objeto);
+        Task <T> GetEntityById(int Id);
         Task<List<T>> List();
     }
 }
