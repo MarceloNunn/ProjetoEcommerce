@@ -33,7 +33,7 @@ namespace Domain.Services
             if (validaPropriedadeNome && validaPropriedadeValor)
             {
                 product.Estado = true;
-                await _IProduct.UpdateProduct(product);
+                await _IProduct.Update(product);
             }
         }
     }

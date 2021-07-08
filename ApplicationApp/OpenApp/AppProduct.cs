@@ -1,47 +1,53 @@
 ﻿using ApplicationApp.Interfaces;
+using Domain.Interfaces.InterfaceServices;
+using Domain.Interfaces.InterfacesProducts;
 using Entities.Entities;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-
 namespace ApplicationApp.OpenApp
 {
     public class AppProduct : InterfaceProductApp
     {
-        
-         
-        public AppProduct()
+        IProduct _IProduct;
+        IServiceProduct _IServiceProduct;
+
+        public AppProduct(IProduct IProduct, IServiceProduct IServiceProduct )
         {
-                
+            _IProduct = IProduct;
+            _IServiceProduct = IServiceProduct;
         }
-        public Task Add(Product Objeto)
+        public async Task Add(Product Objeto)
         {
-            throw new NotImplementedException();
+            await _IProduct.Add(Objeto);
         }
-        public Task DeleteProduct(Product Objeto)
+        public async Task Update(Product Objeto)
         {
-            throw new NotImplementedException();
+            await _IProduct.Update(Objeto);
+        }
+        public async Task Delete(Product Objeto)
+        {
+            await _IProduct.Delete(Objeto);
+        }
+        public async Task<Product> GetEntityById(int Id)
+        {
+            return await _IProduct.GetEntityById(Id);
+        }
+        public async Task<List<Product>> List()
+        {
+            return await _IProduct.List();
         }
 
-        public Task GetByIdProduct(Product Objeto)
+        public async Task AddProduct(Product product)
         {
-            throw new NotImplementedException();
+            await _IServiceProduct.AddProduct(product);
         }
 
-        public Task<List<Product>> List()
+        public async Task UpdateProduct(Product product)
         {
-            throw new NotImplementedException();
-        }
-        public Task AddProduct(Product product)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task UpdateProduct(Product product)
-        {
-            throw new NotImplementedException();
-        }
+            await _IServiceProduct.UpdateProduct(product);
+        }      
     }
 }
