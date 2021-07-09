@@ -1,0 +1,8 @@
+C:\Users\04626035205\source\repos\EcommerceDDD\Web_ECommerce\obj\Debug\netcoreapp3.1\Web_ECommerce.csprojAssemblyReference.cache
+C:\Users\04626035205\source\repos\EcommerceDDD\Web_ECommerce\obj\Debug\netcoreapp3.1\Web_ECommerce.AssemblyInfoInputs.cache
+C:\Users\04626035205\source\repos\EcommerceDDD\Web_ECommerce\obj\Debug\netcoreapp3.1\Web_ECommerce.AssemblyInfo.cs
+C:\Users\04626035205\source\repos\EcommerceDDD\Web_ECommerce\obj\Debug\netcoreapp3.1\Web_ECommerce.csproj.CoreCompileInputs.cache
+C:\Users\04626035205\source\repos\EcommerceDDD\Web_ECommerce\obj\Debug\netcoreapp3.1\Web_ECommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\04626035205\source\repos\EcommerceDDD\Web_ECommerce\obj\Debug\netcoreapp3.1\Web_ECommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\04626035205\source\repos\EcommerceDDD\Web_ECommerce\obj\Debug\netcoreapp3.1\Web_ECommerce.RazorAssemblyInfo.cache
+C:\Users\04626035205\source\repos\EcommerceDDD\Web_ECommerce\obj\Debug\netcoreapp3.1\Web_ECommerce.RazorAssemblyInfo.cs
